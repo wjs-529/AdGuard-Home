@@ -1,5 +1,0 @@
-#拦截
-||t7z.cupid.ptqy.gitv.tv^$important
-||sentry.io^$important
-||ingest.sentry.io^$important
-||shouji.360.cn^$important
