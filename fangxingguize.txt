@@ -1,0 +1,12 @@
+#放行规则
+@@||g.live.com^$important
+@@||ipassport.ele.me^$important
+@@||s.click.taobao.com^$important
+@@||wl.jd.com^$important
+@@||ios.rqd.qq.com^$important
+@@||weixin.qq.com^$important
+@@||ghproxy.com^$important
+@@||github.com^$important
+@@||client.wns.windows.com^$important
+@@||raw.githubusercontent.com^$important
+@@||github.com.cnpmjs.org^$important
