@@ -10,3 +10,4 @@
 @@||client.wns.windows.com^$important
 @@||raw.githubusercontent.com^$important
 @@||github.com.cnpmjs.org^$important
+@@||kuaishou.com^$important
