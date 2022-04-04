@@ -11,3 +11,4 @@
 @@||raw.githubusercontent.com^$important
 @@||github.com.cnpmjs.org^$important
 @@||kuaishou.com^$important
+@@||ele.me^$important
