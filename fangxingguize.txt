@@ -10,3 +10,4 @@
 @@||windows.com^$important
 @@||cnpmjs.org^$important
 @@||kuaishou.com^$important
+@@||api.io.mi.com^$important
