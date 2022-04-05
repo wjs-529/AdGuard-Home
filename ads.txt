@@ -1,5 +1,4 @@
 #https://github.com/v2fly/domain-list-community/blob/master/data/alibaba-ads
-
 @@||a.alimama.cn^$important
 @@||acjs.aliyun.com^$important
 @@||adash.m.taobao.com^$important
@@ -320,7 +319,6 @@
 @@||googletraveladservices.com^$important
 @@||urchin.com^$important
 
-
 #https://github.com/v2fly/domain-list-community/blob/master/data/hunantv-ads
 @@||click.hunantv.com^$important
 @@||da.hunantv.com^$important
@@ -514,9 +512,3 @@
 @@||adeng.hpplay.cn^$important
 @@||kuyun.com^$important
 @@||umeng.com^$important
-
-
-
-
-
-
