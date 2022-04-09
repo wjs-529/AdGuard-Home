@@ -11,3 +11,5 @@
 @@||cnpmjs.org^$important
 @@||kuaishou.com^$important
 @@||api.io.mi.com^$important
+@@||github-do.panbaidu.cn^$important
+@@||github.do^$important
