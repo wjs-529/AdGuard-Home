@@ -4,7 +4,11 @@
 @@||taobao.com^$important
 @@||jd.com^$important
 @@||qq.com^$important
+
+#快手任务
 @@||kuaishou.com^$important
+@@||kuaishouzt.com^$important
+@@||kuaishoupay.com^$important
 
 @@||ghproxy.com^$important
 @@||github.com^$important
