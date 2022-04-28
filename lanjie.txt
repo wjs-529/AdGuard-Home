@@ -95,3 +95,7 @@
 ||hui51.cn^$important
 ||weile.com^$important
 ||daihuo.qq.com^$important
+
+#禁止爱快运远程穿透
+||tunnel.ikuai8.com^$important
+||tunnel-sg.ikuai8.com^$important
