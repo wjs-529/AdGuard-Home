@@ -91,3 +91,7 @@
 ||ingest.sentry.io^$important
 ||shouji.360.cn^$important
 
+||gtimg.com^$important
+||hui51.cn^$important
+||weile.com^$important
+||daihuo.qq.com^$important
