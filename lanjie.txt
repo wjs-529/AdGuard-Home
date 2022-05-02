@@ -99,3 +99,11 @@
 #禁止爱快运远程穿透
 ||tunnel.ikuai8.com^$important
 ||tunnel-sg.ikuai8.com^$important
+
+
+#微信
+||alicdn.com^$important
+||cdntips.net^$important
+||akadns.net^$important
+||qtlcdn.com^$important
+||ad.weixin.qq.com^$important
