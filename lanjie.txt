@@ -102,8 +102,6 @@
 
 
 #微信
-||alicdn.com^$important
 ||cdntips.net^$important
 ||akadns.net^$important
-||qtlcdn.com^$important
 ||ad.weixin.qq.com^$important
