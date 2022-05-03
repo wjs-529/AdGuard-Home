@@ -23,3 +23,7 @@
 
 #小米智能设备
 @@||api.io.mi.com^$important
+
+
+#天猫精灵cdn加速
+@@||umc.danuoyi.alicdn.com^$important
