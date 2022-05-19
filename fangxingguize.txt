@@ -27,3 +27,8 @@
 
 #天猫精灵cdn加速
 @@||umc.danuoyi.alicdn.com^$important
+
+@@||apple.com^$important
+
+#人行
+@@||api.segment.io^$important
