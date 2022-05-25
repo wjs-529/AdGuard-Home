@@ -103,5 +103,4 @@
 
 #微信
 ||cdntips.net^$important
-||akadns.net^$important
 ||ad.weixin.qq.com^$important
