@@ -32,3 +32,7 @@
 
 #人行
 @@||api.segment.io^$important
+
+#苹果app
+@@||itunes-apple.com.akadns.net^$important
+
