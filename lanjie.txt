@@ -100,10 +100,7 @@
 ||push.ksapisrv.com^$important
 ||v3-ad.video.yximgs.com^$important
 ||cdn.nz.lu^$important
-||gtimg.com^$important
-||hui51.cn^$important
-||weile.com^$important
-||daihuo.qq.com^$important
+
 
 #禁止爱快运远程穿透
 ||tunnel.ikuai8.com^$important
