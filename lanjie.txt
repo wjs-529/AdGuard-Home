@@ -85,12 +85,21 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 
+||googleapis.com^$important
+||aligames.com^$important
+||gdt.qq.com^$important
+||trace.qq.com^$important
+||coohua.com^$important
+||akadns.net^$important
+
 #其他拦截
 ||t7z.cupid.ptqy.gitv.tv^$important
 ||sentry.io^$important
 ||ingest.sentry.io^$important
 ||shouji.360.cn^$important
-
+||push.ksapisrv.com^$important
+||v3-ad.video.yximgs.com^$important
+||cdn.nz.lu^$important
 ||gtimg.com^$important
 ||hui51.cn^$important
 ||weile.com^$important
@@ -100,6 +109,8 @@
 ||tunnel.ikuai8.com^$important
 ||tunnel-sg.ikuai8.com^$important
 
+#随机诗词
+||v1.jinrishici.com^$important
 
 #微信
 ||cdntips.net^$important
