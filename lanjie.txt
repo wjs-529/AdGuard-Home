@@ -84,9 +84,7 @@
 ||google.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
-
 ||googleapis.com^$important
-
 
 #其他拦截
 ||t7z.cupid.ptqy.gitv.tv^$important
@@ -94,9 +92,6 @@
 ||ingest.sentry.io^$important
 ||shouji.360.cn^$important
 ||push.ksapisrv.com^$important
-||v3-ad.video.yximgs.com^$important
-||cdn.nz.lu^$important
-
 
 #禁止爱快运远程穿透
 ||tunnel.ikuai8.com^$important
