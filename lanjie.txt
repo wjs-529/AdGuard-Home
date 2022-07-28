@@ -86,7 +86,7 @@
 ||youtube.com/get_midroll_
 
 ||googleapis.com^$important
-||akadns.net^$important
+
 
 #其他拦截
 ||t7z.cupid.ptqy.gitv.tv^$important
