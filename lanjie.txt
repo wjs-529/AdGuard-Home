@@ -86,10 +86,6 @@
 ||youtube.com/get_midroll_
 
 ||googleapis.com^$important
-||aligames.com^$important
-||gdt.qq.com^$important
-||trace.qq.com^$important
-||coohua.com^$important
 ||akadns.net^$important
 
 #其他拦截
